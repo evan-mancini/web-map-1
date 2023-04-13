@@ -426,6 +426,6 @@ $('#fly-to-jamaica').on('click', function () {
 
 $('#fly-to-lic').on('click', function () {
     map.flyTo({
-        center: [-73.95827868721324, 40.74567761393485]
+        center: [-73.938771, 40.757826]
     })
 })
